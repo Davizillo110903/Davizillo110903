@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Davizillo110903
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Ingenieria Telematica
+- 👋 Hi, I’m @Davizillo110903.
+- 👀 I’m interested in programming, it is a world that I'm passionate about.
+- 🌱 I’m currently learning Ingenieria Telematica at the University of Alcala.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me david.paluso@edu.uah.es
-- 😄 Pronouns: ...
+- 😄 Pronouns: Davizillo.
 - ⚡ Fun fact: ...
-
-<!---
-Davizillo110903/Davizillo110903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
